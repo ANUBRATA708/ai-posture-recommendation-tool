@@ -23,7 +23,7 @@ Download all the provided files in the folowing format:
 ├── icon.ico
 ├── README.md
 📦 Releases (download below)
-│ └── posture_model.h5
+│ └── posture_model.h5 (https://github.com/ANUBRATA708/ai-posture-recommendation-tool/releases/download/v1.0/posture_model.h5)
 
 
 ### Method to execute the tool: Run via `.bat` (With Command Line)
