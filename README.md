@@ -32,6 +32,9 @@ Download all the provided files in the folowing format:
 
 -│ └── posture_model.h5 (https://github.com/ANUBRATA708/ai-posture-recommendation-tool/releases/download/v1.0/posture_model.h5)
 
+  ![image](https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0)
+
+
 
 
 
