@@ -17,22 +17,15 @@ A desktop application that uses artificial intelligence to recommend posture cor
 
 ## 🛠️ Installation & Usage
 Download all the provided files in the folowing format:
-📁 ai-posture-recommendation-tool/
-├── ai_posture_app.py
-├── run_posture_app.bat
-├── icon.ico
-├── README.md
-📦 Releases (download below)
-│ └── posture_model.h5 (https://github.com/ANUBRATA708/ai-posture-recommendation-tool/releases/download/v1.0/posture_model.h5)
 
+-📁 ai-posture-recommendation-tool/
+-├── ai_posture_app.py
+-├── run_posture_app.bat
+-├── icon.ico
+-├── README.md
+-📦 Releases (download below)
+-│ └── posture_model.h5 (https://github.com/ANUBRATA708/ai-posture-recommendation-tool/releases/download/v1.0/posture_model.h5)
 
-### Method to execute the tool: Run via `.bat` (With Command Line)
-```bash
-Double-click on `run_posture_app.bat`
-
------
-
-![image](https://github.com/user-attachments/assets/37c7ae5e-e4e2-470a-9b89-38cacf670a1d)
 
 
 
