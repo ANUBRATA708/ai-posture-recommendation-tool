@@ -30,10 +30,6 @@ Download all the provided files in the folowing format:
 ```bash
 Double-click on `run_posture_app.bat`
 
-![Screenshot 2025-06-09 202158](https://github.com/user-attachments/assets/12608a6b-8094-4a0e-a3c8-60dd308a0155)
+![Screenshot 2025-06-09 202158](https://github.com/user-attachments/assets/1e0a4489-e6a1-4aab-8686-587e6b78d31d)
 
-
-![Screenshot 2025-06-09 202918](https://github.com/user-attachments/assets/fba7d285-2be1-49a0-a0ba-8bb071a8353d)
-
-![Screenshot 2025-06-09 202833](https://github.com/user-attachments/assets/53c4147f-0318-474f-8644-ce7bb22c8286)
 
