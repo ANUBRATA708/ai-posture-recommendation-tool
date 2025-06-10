@@ -29,9 +29,11 @@ Download all the provided files in the folowing format:
 ### Method to execute the tool: Run via `.bat` (With Command Line)
 ```bash
 Double-click on `run_posture_app.bat`
-![Screenshot 2025-06-09 202158](https://github.com/user-attachments/assets/b6a2db07-682f-40a8-8b8a-9d0c2f8063dd)
-![Screenshot 2025-06-09 202833](https://github.com/user-attachments/assets/0f9d34dd-681d-45bc-a482-f0b11bd8fc86)
-![Screenshot 2025-06-09 202918](https://github.com/user-attachments/assets/310514d8-a726-40ee-b049-8b266fd5c8e7)
+
+![Screenshot 2025-06-09 202158](https://github.com/user-attachments/assets/12608a6b-8094-4a0e-a3c8-60dd308a0155)
 
 
+![Screenshot 2025-06-09 202918](https://github.com/user-attachments/assets/fba7d285-2be1-49a0-a0ba-8bb071a8353d)
+
+![Screenshot 2025-06-09 202833](https://github.com/user-attachments/assets/53c4147f-0318-474f-8644-ce7bb22c8286)
 
