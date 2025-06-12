@@ -20,7 +20,7 @@ Download all the provided files in the folowing format:
 
 📁 ai-posture-recommendation-tool/
 
--├──app.py
+-├──ai_posture_app.py
 
 -├── run_posture_app.bat
 
