@@ -20,11 +20,13 @@ Download all the provided files in the folowing format:
 
 📁 ai-posture-recommendation-tool/
 
--├── ai_posture_app.py
+-├──app.py
 
 -├── run_posture_app.bat
 
 -├── icon.ico
+
+-├── requirements.txt
 
 -├── README.md
 
