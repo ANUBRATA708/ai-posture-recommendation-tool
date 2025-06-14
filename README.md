@@ -1,45 +1,68 @@
-# 🤖 AI-Based Posture Recommendation Tool
+<h1 align="center">🤖 AI-Based Posture Recommendation Tool</h1>
+<p align="center">
+  A desktop application that uses artificial intelligence to recommend posture corrections based on real-time webcam input or uploaded photos.
+</p>
 
-A desktop application that uses artificial intelligence to recommend posture corrections based on real-time webcam images or uploaded photos.
-
----
-
-## 📌 Features
-
-- 📷 Capture image from webcam
-- 📁 Upload photo from your device
-- 🧠 AI model (`.h5`) detects posture
-- 💡 Personalized recommendations
-- 🎨 Clean GUI with `.ico` icon
-- 🖥️ Launch via `.bat` 
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-RealTime-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Model-.h5-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20App-Windows-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Installation & Usage
-Download all the provided files in the folowing format:
+## ✨ Features
 
+- 📷 **Capture image from webcam**
+- 📁 **Upload photos from device**
+- 🧠 AI-based posture detection using `.h5` model
+- 💡 Personalized posture improvement tips
+- 🎨 Graphical UI with a custom `.ico` icon
+- 🖥️ Launch directly with a `.bat` file (no terminal required)
+
+---
+
+## 📂 Project Folder Structure
+
+```plaintext
 📁 ai-posture-recommendation-tool/
+├── ai_posture_app.py           # Main application file
+├── run_posture_app.bat         # One-click launcher
+├── icon.ico                    # App icon
+├── requirements.txt            # Python dependencies
+├── README.md                   # This file
+└── 📦 Releases/
+    └── posture_model.h5        # Pre-trained AI model (Download below)
+🚀 How to Launch the Tool
+✅ Clone/download the full project folder
 
--├──ai_posture_app.py
+📥 Download the pre-trained model from here
 
--├── run_posture_app.bat
+📁 Place posture_model.h5 inside the project folder
 
--├── icon.ico
+🖱️ Double-click run_posture_app.bat to launch the app
 
--├── requirements.txt
+🖼️ Screenshots
+<p align="center"> <img src="https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0" width="300"/> <img src="https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e" width="300"/> <img src="https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0" width="300"/> </p>
 
--├── README.md
+🛠️ Built With
+Python 🐍
 
--📦 Releases (download below)
+Streamlit 🖼️
 
--│ └── posture_model.h5 (https://github.com/ANUBRATA708/ai-posture-recommendation-tool/releases/download/v1.0/posture_model.h5)
+OpenCV 📷
 
-## HOW TO LAUNCH THE TOOL?--After setting your project folder launch the "run_posture_app.bat" file.
+TensorFlow / Keras 🤖
+
+Windows Batch Scripting 🖥️
+
+📬 Contact
+Made with ❤️ by Anubrata Majumdar
+📧 Email: anubrataofficial@gmail.com
+🔗 LinkedIn: Anubrata Majumdar
 
 
-  ![image](https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0)
-  ![Screenshot 2025-06-09 202833](https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e)
-  ![Screenshot 2025-06-09 202918](https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0)
+
 
 
 
