@@ -62,11 +62,10 @@ TensorFlow / Keras 🤖
 
 Windows Batch Scripting 🖥️
 
-##📬 Contact
+
 
 Made with ❤️ by Anubrata Majumdar
-📧 Email: anubrataofficial@gmail.com
-🔗 LinkedIn: Anubrata Majumdar
+
 
 
 
