@@ -25,14 +25,21 @@
 ## 📂 Project Folder Structure
 
 
-📁 ai-posture-recommendation-tool/
+📁 ai-posture-recommendation-tool/ 
+
 ├── ai_posture_app.py           # Main application file
+
 ├── run_posture_app.bat         # One-click launcher
+
 ├── icon.ico                    # App icon
+
 ├── requirements.txt            # Python dependencies
+
 ├── README.md                   # This file
+
 └── 📦 Releases/
-    └── posture_model.h5        # Pre-trained AI model (Download below)
+
+  └── posture_model.h5        # Pre-trained AI model (Download below)
 
 ## 🚀 How to Launch the Tool
 
