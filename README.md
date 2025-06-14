@@ -24,7 +24,7 @@
 
 ## 📂 Project Folder Structure
 
-```plaintext
+
 📁 ai-posture-recommendation-tool/
 ├── ai_posture_app.py           # Main application file
 ├── run_posture_app.bat         # One-click launcher
