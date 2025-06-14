@@ -3,11 +3,11 @@
   A desktop application that uses artificial intelligence to recommend posture corrections based on real-time webcam input or uploaded photos.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-RealTime-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Model-.h5-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Desktop%20App-Windows-orange?style=for-the-badge" />
-</p>
+## 🖼️ Screenshots
+
+![Screenshot 1](https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0)
+![Screenshot 2](https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e)
+![Screenshot 3](https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0)
 
 ---
 
