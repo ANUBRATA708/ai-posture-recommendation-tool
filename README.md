@@ -3,11 +3,11 @@
   A desktop application that uses artificial intelligence to recommend posture corrections based on real-time webcam input or uploaded photos.
 </p>
 
-## 🖼️ Screenshots
-
-![Screenshot 1](https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0)
-![Screenshot 2](https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e)
-![Screenshot 3](https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0)
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-RealTime-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Model-.h5-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20App-Windows-orange?style=for-the-badge" />
+</p>
 
 ---
 
@@ -33,7 +33,9 @@
 ├── README.md                   # This file
 └── 📦 Releases/
     └── posture_model.h5        # Pre-trained AI model (Download below)
-🚀 How to Launch the Tool
+
+## 🚀 How to Launch the Tool
+
 ✅ Clone/download the full project folder
 
 📥 Download the pre-trained model from here
@@ -42,10 +44,14 @@
 
 🖱️ Double-click run_posture_app.bat to launch the app
 
-🖼️ Screenshots
-<p align="center"> <img src="https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0" width="300"/> <img src="https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e" width="300"/> <img src="https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0" width="300"/> </p>
+## 🖼️ Screenshots
 
-🛠️ Built With
+![Screenshot 1](https://github.com/user-attachments/assets/c148646c-aac0-4d6d-bda0-96dbc68baca0)
+![Screenshot 2](https://github.com/user-attachments/assets/2583ed97-b079-47a3-8d23-ee12eef3511e)
+![Screenshot 3](https://github.com/user-attachments/assets/8a9e75ab-ed75-4600-b583-26e7555aabf0)
+
+## 🛠️ Built With
+
 Python 🐍
 
 Streamlit 🖼️
@@ -56,11 +62,11 @@ TensorFlow / Keras 🤖
 
 Windows Batch Scripting 🖥️
 
-📬 Contact
+##📬 Contact
+
 Made with ❤️ by Anubrata Majumdar
 📧 Email: anubrataofficial@gmail.com
 🔗 LinkedIn: Anubrata Majumdar
-
 
 
 
